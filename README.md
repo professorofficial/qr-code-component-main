@@ -29,8 +29,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://www.frontendmentor.io/solutions/qr-code-component-using-css-and-html-3qDVg7Y6A)
-- [Live Site URL](https://qr-code-component-solution-lalitrajput.vercel.app/)
+- [Live Site URL](https://professorofficial.github.io/qr-code-component-main/)
 
 
 ### Built with
